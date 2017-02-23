@@ -1,10 +1,10 @@
 { "name"        : "altiimagemagick"
 , "description" : "A wrapper around the imagemagick cli"
-, "version"     : "0.1.5"
+, "version"     : "0.1.6"
 , "author"      : "Jacky Tang"
 , "licenses"    : ["MIT"]
 , "repository"  : { "type" : "git"
-                  , "url"  : "https://github.com/jackytck/node-imagemagick" }
+                  , "url"  : "https://github.com/jackytck/altiimagemagick" }
 , "engine"      : ["node >=0.6"]
 , "main"        : "imagemagick"
 }
