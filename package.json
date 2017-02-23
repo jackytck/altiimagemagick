@@ -1,6 +1,6 @@
 { "name"        : "altiimagemagick"
 , "description" : "A wrapper around the imagemagick cli"
-, "version"     : "0.1.4"
+, "version"     : "0.1.5"
 , "author"      : "Jacky Tang"
 , "licenses"    : ["MIT"]
 , "repository"  : { "type" : "git"
