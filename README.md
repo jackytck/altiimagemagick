@@ -1,6 +1,6 @@
 # node-imagemagick
 
-**This is an abandoned version. Please see [@yourdeveloper/node-imagemagick](https://github.com/yourdeveloper/node-imagemagick) for the currently maintained version**
+**This version solves the bug of `Cannot read property 'split' of undefined` when calling `identify`.
 
 [Imagemagick](http://www.imagemagick.org/) module for [Node](http://nodejs.org/).
 
